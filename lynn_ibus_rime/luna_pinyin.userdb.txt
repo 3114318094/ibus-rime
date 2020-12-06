@@ -1,0 +1,25 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	24
+#@/user_id	lynn_ibus_rime
+bai du 	百度	c=1 d=1 t=20
+bi hua 	筆畫	c=1 d=0.980199 t=12
+bi zhi 	壁紙	c=1 d=1 t=24
+hun shu 	混輸	c=1 d=1 t=14
+ma 	碼	c=1 d=0.960789 t=12
+ming yue 	明月	c=1 d=0.97531 t=12
+pei zhi 	配置	c=1 d=1 t=18
+qi dong 	啓動	c=1 d=1 t=17
+shu ju 	數據	c=1 d=0.995012 t=12
+shu ru fa 	輸入法	c=1 d=1 t=19
+shuang pin 	雙拼	c=6 d=5.66324 t=23
+tong bu 	同步	c=1 d=1 t=12
+wang pan 	網盤	c=1 d=1 t=21
+xiao he 	小鶴	c=1 d=1 t=22
+yi zu 	一組	c=1 d=0.99005 t=12
+zhe shi 	這是	c=1 d=0.985112 t=12
+zhong ying 	中英	c=1 d=1 t=13
+zi dong 	自動	c=1 d=1 t=16
+zi ran 	自然	c=1 d=0.955997 t=12
